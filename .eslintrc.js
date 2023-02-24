@@ -6,7 +6,6 @@ module.exports = {
     },
     globals: {
         route: true, // Ziggy
-        axios: true  // Laravel Axios
     },
     extends: [
         'eslint:recommended',

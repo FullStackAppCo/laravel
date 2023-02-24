@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "ES2020",
+        "moduleResolution": "node",
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "strict": true,
+        "lib": ["dom", "ES2017"],
+        "types": [
+            "vite/client"
+        ],
+        "jsx": "react"
+    }
+}
